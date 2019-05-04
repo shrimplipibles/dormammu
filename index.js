@@ -8,4 +8,4 @@ client.on('message', msg => {
     msg.reply('Tu es venu mourir !')
   }
 })
-client.login('NTc0MTI0OTQwMjkxMzQyMzc1.XM02tQ.rivvjdgWfhS7F8Tro0hfkJ5N2GY')
+client.login('NTc0MTI5MTU0NTc3MTM3NjY0.XM06ew.ctqKtDiBQzAOPfserXldhTxxo40')
